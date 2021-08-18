@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4528e0e1-1878-41ae-aca3-308383dfe3bb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4528e0e1-1878-41ae-aca3-308383dfe3bb" name="Default" comment="null safety added to downloaded path providers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,9 +144,36 @@
       <option name="presentableId" value="Default" />
       <updated>1537279270143</updated>
     </task>
+    <task id="LOCAL-00001" summary="null safety added to downloaded path providers">
+      <created>1629276099850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629276099850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="null safety added to downloaded path providers" />
+    <option name="LAST_COMMIT_MESSAGE" value="null safety added to downloaded path providers" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="515" y="161" key="Vcs.Push.Dialog.v2" timestamp="1629276124810">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="515" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.814@0.23.1440.814" timestamp="1629276124810" />
     <state x="653" y="317" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1629276006528">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
